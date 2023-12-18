@@ -1,0 +1,149 @@
+body {
+    color: #141E46;
+    margin: 0;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    font-size: 1.15rem;
+  }
+
+  .top-container {
+    background-color: #5C2B29;
+    position: relative;
+    padding-top: 50px;
+    margin-bottom: -50px;
+  }
+
+  .middle-container {
+    margin: 0;
+    background-color: #DEB887;
+    padding-top: 20px;
+  }
+ 
+  h1 {
+    color: #ffffff;
+    font-size: 5.625rem;
+    margin: 10px auto 0 auto;
+    font-family: 'Bree Serif', serif;
+  }
+  
+  #subtitle{
+    color: #ffffff;
+  }
+  
+  h2 {
+    color: #5C2B29;
+    font-family: 'Bree Serif', serif;
+    font-size: 3.25rem;
+    font-weight: normal;
+    padding-bottom: 20px;
+  }
+  /* Add or modify styles as needed for the specific section you want to emphasize */
+  
+  .navbar-list{
+    background-color: #5C2B29;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    /* position: fixed; */
+    top: 0;
+    width: 100%;
+  }
+
+  li{
+    float: left;
+  }
+  
+  li a{
+    display:block;
+     color:white;
+    /*text-align:center;*/
+    padding:0;
+    display:block;
+    padding:1rem;
+    font-family: 'Bree Serif', serif;
+    font-size: 1rem;;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  li a:hover{
+    background-color:#DEB887;
+    color: #5C2B29;
+    font-size: 1rem;
+    
+  }
+
+  ul{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+  }
+  
+  
+a {
+  color: #DEB887;
+  font-family: 'Bree Serif', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #DEB887;
+}
+
+
+  .skills {
+    padding: 50px 0;
+  }
+  
+  .parent {
+    display: flex; /* Use flex container to align children in a row */
+    justify-content: space-between; /* Adjust spacing between children */
+    align-items: center; /* Align children vertically in the center */
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    gap: 2rem;
+  }
+  
+  /* Optional: Adjust styles for individual images if needed */
+  .comp-img {
+    width: 100%;
+    max-width: 200px; /* Adjust the maximum width as needed */
+  }
+  
+  .book-img {
+    width: 100%;
+    max-width: 200px; /* Adjust the maximum width as needed */
+  }
+  
+  
+  p {
+    line-height: 1.6;
+  }
+  
+  .copyright {
+    color: #DEB887;
+    font-size: 1rem;
+    padding: 10px 0;
+  }
+  
+  .bottom-container {
+    background-color: #5C2B29;
+    padding: 20px 0;
+  }
+  
+  .footer-link {
+    color: #ffffff;
+    margin: 0 20px;
+    text-decoration: none;
+  }
+  
+  .footer-link:hover {
+    color: #DEB887;
+  }
+  
