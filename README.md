@@ -1,7 +1,7 @@
 # Canva Portfolio v0.1
 
 ![GitHub](https://img.shields.io/github/license/akumarm23/CanvaPortfolio)
-![GitHub release (0.1)](https://img.shields.io/github/v0.1/release/akumarm23/CanvaPortfolio?label=version)
+![GitHub release](https://img.shields.io/github/v/release/akumarm23/CanvaPortfolio?label=version)
 ![HTML](https://img.shields.io/badge/HTML-v5.0-orange)
 ![CSS](https://img.shields.io/badge/CSS-v3.0-blue)
 
@@ -21,7 +21,7 @@ This portfolio website presents a selection of book cover templates designed by 
 
 ## Preview
 
-[![Portfolio Preview](./path-to-preview-image.png)](https://your-portfolio-link.com)
+[Canva Portfolio](https://your-portfolio-link.com)
 
 ## Usage
 
