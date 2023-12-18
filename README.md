@@ -20,7 +20,7 @@ This portfolio website presents a selection of book cover templates designed by 
 
 ## Preview
 
-[Canva Portfolio](https://your-portfolio-link.com)
+[Canva Portfolio](https://akumarm23.github.io/CanvaPortfolio/)
 
 ## Usage
 
